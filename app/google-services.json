@@ -1,0 +1,315 @@
+{
+  "project_info": {
+    "project_number": "50877237723",
+    "firebase_url": "https://ecommerceshop-189012.firebaseio.com",
+    "project_id": "ecommerceshop-189012",
+    "storage_bucket": "ecommerceshop-189012.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:50877237723:android:93d81eea22d0f730",
+        "android_client_info": {
+          "package_name": "com.vectorcoder.androidecommerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "50877237723-noqs9n2qng0p8kbhb11n55eijos7kmnb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vectorcoder.androidecommerce",
+            "certificate_hash": "64dc31e7df98e86b3ffa306a899e8c27974dc846"
+          }
+        },
+        {
+          "client_id": "50877237723-d9dgk0j4uj5vobtp7t4qac8uqbgni0k3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vectorcoder.androidecommerce",
+            "certificate_hash": "56e7346baf88c4ba49aa15a48c58155d4acc4810"
+          }
+        },
+        {
+          "client_id": "50877237723-lpc7gagapnk9kqf44np2tm2vf8cja7gj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vectorcoder.androidecommerce",
+            "certificate_hash": "f965ef10bdaac7f9f32ffb1b3fa19dade3e0f6de"
+          }
+        },
+        {
+          "client_id": "50877237723-4tsl9bh668ggbkqf9b60i6u79gh05tsk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vectorcoder.androidecommerce",
+            "certificate_hash": "76d048fdf2dfcb4a0e4f6abf22976719da90b8c2"
+          }
+        },
+        {
+          "client_id": "50877237723-hci9pq550n2o4klq2nc3ondcgnk9d5e8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vectorcoder.androidecommerce",
+            "certificate_hash": "a2820c3b7be7959b298895b6ca51f3f3aeca2e96"
+          }
+        },
+        {
+          "client_id": "50877237723-0742a934qgskkqrvduv9fn27lp9n4p3h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCO0XtIj62soHq40hBMBpKs-WpkMYNFoCA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "50877237723-0742a934qgskkqrvduv9fn27lp9n4p3h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:50877237723:android:c956dc8103d9ddba",
+        "android_client_info": {
+          "package_name": "com.vectorcoder.androidecommerce.demo1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "50877237723-1c39si59fuor0jil52epcii8k5vdbqh3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vectorcoder.androidecommerce.demo1",
+            "certificate_hash": "64dc31e7df98e86b3ffa306a899e8c27974dc846"
+          }
+        },
+        {
+          "client_id": "50877237723-h535ditip3oqfd9e76vh9l3ujootg2ui.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vectorcoder.androidecommerce.demo1",
+            "certificate_hash": "56e7346baf88c4ba49aa15a48c58155d4acc4810"
+          }
+        },
+        {
+          "client_id": "50877237723-68i1s5o0fqbn5tkpqcgoobmmjn4htpnh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vectorcoder.androidecommerce.demo1",
+            "certificate_hash": "f965ef10bdaac7f9f32ffb1b3fa19dade3e0f6de"
+          }
+        },
+        {
+          "client_id": "50877237723-47m08frkbu5jkafq4nnqv8afqsa3gkfk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vectorcoder.androidecommerce.demo1",
+            "certificate_hash": "76d048fdf2dfcb4a0e4f6abf22976719da90b8c2"
+          }
+        },
+        {
+          "client_id": "50877237723-c1cctsehn96togoh8eoaknfaeandg2ai.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vectorcoder.androidecommerce.demo1",
+            "certificate_hash": "a2820c3b7be7959b298895b6ca51f3f3aeca2e96"
+          }
+        },
+        {
+          "client_id": "50877237723-0742a934qgskkqrvduv9fn27lp9n4p3h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCO0XtIj62soHq40hBMBpKs-WpkMYNFoCA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "50877237723-0742a934qgskkqrvduv9fn27lp9n4p3h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:50877237723:android:0cfb5e3481f833ba",
+        "android_client_info": {
+          "package_name": "com.vectorcoder.androidecommerce.demo2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "50877237723-uhtqma80t83coud0l7q267nb1on5e72q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vectorcoder.androidecommerce.demo2",
+            "certificate_hash": "64dc31e7df98e86b3ffa306a899e8c27974dc846"
+          }
+        },
+        {
+          "client_id": "50877237723-k1fdabm9e23e0vn6jhk7ri8p407dqohv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vectorcoder.androidecommerce.demo2",
+            "certificate_hash": "56e7346baf88c4ba49aa15a48c58155d4acc4810"
+          }
+        },
+        {
+          "client_id": "50877237723-r6s03ip1ld2j1pijln18ugdlduq88br9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vectorcoder.androidecommerce.demo2",
+            "certificate_hash": "f965ef10bdaac7f9f32ffb1b3fa19dade3e0f6de"
+          }
+        },
+        {
+          "client_id": "50877237723-4ra82ch24rof79rhijf95mnlinm8im5i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vectorcoder.androidecommerce.demo2",
+            "certificate_hash": "76d048fdf2dfcb4a0e4f6abf22976719da90b8c2"
+          }
+        },
+        {
+          "client_id": "50877237723-k0eqdavmji9a210pufovpe10kfa8b2dp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vectorcoder.androidecommerce.demo2",
+            "certificate_hash": "a2820c3b7be7959b298895b6ca51f3f3aeca2e96"
+          }
+        },
+        {
+          "client_id": "50877237723-0742a934qgskkqrvduv9fn27lp9n4p3h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCO0XtIj62soHq40hBMBpKs-WpkMYNFoCA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "50877237723-0742a934qgskkqrvduv9fn27lp9n4p3h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:50877237723:android:0e89512547b212dd",
+        "android_client_info": {
+          "package_name": "com.vectorcoder.androidecommerce.demo3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "50877237723-1cdqro91ivvuv6f1mdhve9hkjv5ehhjt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vectorcoder.androidecommerce.demo3",
+            "certificate_hash": "64dc31e7df98e86b3ffa306a899e8c27974dc846"
+          }
+        },
+        {
+          "client_id": "50877237723-2ovsjmtm91rn4ch7pm2ftipmv3tch73t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vectorcoder.androidecommerce.demo3",
+            "certificate_hash": "56e7346baf88c4ba49aa15a48c58155d4acc4810"
+          }
+        },
+        {
+          "client_id": "50877237723-98rca07p9s4knopheni3ig0rqu0q8uol.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vectorcoder.androidecommerce.demo3",
+            "certificate_hash": "f965ef10bdaac7f9f32ffb1b3fa19dade3e0f6de"
+          }
+        },
+        {
+          "client_id": "50877237723-lmdi7k7680mehkujn6k4s4gcad93pmc8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vectorcoder.androidecommerce.demo3",
+            "certificate_hash": "76d048fdf2dfcb4a0e4f6abf22976719da90b8c2"
+          }
+        },
+        {
+          "client_id": "50877237723-ik8e22bda1rsbaih8en20gdnrl68vrh7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vectorcoder.androidecommerce.demo3",
+            "certificate_hash": "a2820c3b7be7959b298895b6ca51f3f3aeca2e96"
+          }
+        },
+        {
+          "client_id": "50877237723-0742a934qgskkqrvduv9fn27lp9n4p3h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCO0XtIj62soHq40hBMBpKs-WpkMYNFoCA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "50877237723-0742a934qgskkqrvduv9fn27lp9n4p3h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

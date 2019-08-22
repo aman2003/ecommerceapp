@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\HP\\Downloads\\android-ecommerce-v3.4\\android-ecommerce-v3\\App Source Code\\ecommerce\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-xlarge-mdpi-v4\\values-xlarge-mdpi-v4.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-2\\files-2.1\\df665408c585687fe0c4d554f4f9208a\\res\\values-xlarge-mdpi-v4\\values-xlarge-mdpi-v4.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,106,156,200",
+                        "endColumns": "50,49,43,42",
+                        "endOffsets": "101,151,195,238"
+                    }
+                }
+            ]
+        }
+    ]
+}
