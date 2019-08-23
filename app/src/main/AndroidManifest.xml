@@ -25,6 +25,7 @@
         tools:replace="android:allowBackup"
         android:label="@string/app_name"
         android:icon="@mipmap/ic_launcher"
+        android:usesCleartextTraffic="true"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
 
@@ -111,7 +112,7 @@
             android:launchMode="singleTask">
             <intent-filter>
                 <action android:name="android.intent.action.VIEW" />
-                <data android:scheme="${applicationId}.braintree" />
+                <data android:scheme="com.vectorcoder.androidecommerce.demo2.braintree" />
                 <category android:name="android.intent.category.DEFAULT" />
                 <category android:name="android.intent.category.BROWSABLE" />
             </intent-filter>

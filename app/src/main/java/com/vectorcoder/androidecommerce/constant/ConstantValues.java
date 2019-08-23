@@ -10,10 +10,10 @@ public class ConstantValues {
     
     
     //*********** API Base URL ********//
-    public static final String ECOMMERCE_URL = "http://presell.in/";
+    public static final String ECOMMERCE_URL = "https://presell.in/";
     
-    public static final String ECOMMERCE_CONSUMER_KEY = "044f2bd915664832706592356d";
-    public static final String ECOMMERCE_CONSUMER_SECRET = "244c06021566483270ff5ea499";
+    public static final String ECOMMERCE_CONSUMER_KEY = "4201ab7f1566534759cd47de28";
+    public static final String ECOMMERCE_CONSUMER_SECRET = "3540ce4415665347592f24bf15";
     
     
     //*********** API Base URL ********//
